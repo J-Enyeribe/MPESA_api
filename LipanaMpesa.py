@@ -1,0 +1,1 @@
+print ("Welcome to Full Stack Django")
